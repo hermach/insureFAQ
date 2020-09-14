@@ -24,9 +24,6 @@ just click on :
 
 [python3] (https://www.python.org/)
 
-# Authors 
-* **Alae Es-saki** - *Story generater tool* - [Alaeessaki](https://github.com/alaeessaki)
-* **Yassine Lafkih** - *the integration scripts* - [YassineOsip](https://gitlab.com/YassineOsip)
     
 # License
 
